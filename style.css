@@ -1,0 +1,18 @@
+body{
+    font-family: 'Poppins', sans-serif;;
+}
+
+h2{
+  color: white;
+}
+p{
+  font-style: italic;
+   text-shadow: .5px .5px #000;
+   color: white;
+}
+.form-group{
+  font-weight: bolder;
+}
+.form-check-label{
+  color: white;
+}
